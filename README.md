@@ -8,4 +8,4 @@ how to use :
 4. apt install git
 5. git clone https://github.com/bangkitboss/AutoClaim.git
 6. cd revisiClaim
-7. php gogo.php
+7. php gogo.php / php bill.php
